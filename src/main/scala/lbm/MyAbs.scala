@@ -1,5 +1,0 @@
-package lbm
-
-class MyAbs {
-
-}
